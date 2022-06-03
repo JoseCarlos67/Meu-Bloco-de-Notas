@@ -1,0 +1,16 @@
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\bin\Debug\netcoreapp3.1\Meu Bloco de Notas.exe
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\bin\Debug\netcoreapp3.1\Meu Bloco de Notas.deps.json
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\bin\Debug\netcoreapp3.1\Meu Bloco de Notas.runtimeconfig.json
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\bin\Debug\netcoreapp3.1\Meu Bloco de Notas.runtimeconfig.dev.json
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\bin\Debug\netcoreapp3.1\Meu Bloco de Notas.dll
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\bin\Debug\netcoreapp3.1\Meu Bloco de Notas.pdb
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.csproj.AssemblyReference.cache
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu_Bloco_de_Notas.Inicio.resources
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.csproj.GenerateResource.cache
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.AssemblyInfoInputs.cache
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.AssemblyInfo.cs
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.csproj.CoreCompileInputs.cache
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.dll
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.pdb
+C:\Users\202011000018\Desktop\Bloco de Notas em C#\Meu Bloco de Notas\obj\Debug\netcoreapp3.1\Meu Bloco de Notas.genruntimeconfig.cache
